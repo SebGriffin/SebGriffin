@@ -57,9 +57,9 @@ Projects will be added here as I develop my Python, statistics and data analysis
 
  🎯 Long-Term Goal
 
-My goal is to combine my knowledge of **Sport & Exercise Science** with skills in **data analysis, programming and sports technology**.
+My goal is to combine my knowledge of **Sport & Exercise Science** with skills in **data analysis, programming and sports technology.
 
-I want to build a strong portfolio of real sports-data projects and eventually work professionally in **sports analytics, performance analysis or sports technology**.## Hi there 👋
+I want to build a strong portfolio of real sports-data projects and eventually work professionally in **sports analytics, performance analysis or sports technology.
 
 <!--
 **SebGriffin/SebGriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
